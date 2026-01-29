@@ -10,10 +10,10 @@
   
   ---
   
-  🌱 I’m currently learning **Advanced System Administration & AI Integration**
-  💻 I use **Arch Linux** (btw) for my daily driver.
-  🔭 I’m currently working on **Laravel Projects & Discord/WA Bots**
-  🐱 Fun fact: I have a cat and love making custom solutions for everything.
+  🌱 I’m currently learning **Advanced System Administration & AI Integration**<br>
+  💻 I use **Arch Linux** (btw) for my daily driver.<br>
+  🔭 I’m currently working on **Laravel Projects & Discord/WA Bots**<br>
+  🐱 Fun fact: I have a cat and love making custom solutions for everything.<br>
 
 </div>
 
