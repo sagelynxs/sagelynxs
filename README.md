@@ -54,5 +54,5 @@
 </div>
 
 <div align="center">
-  <img src="https://visit-count.vercel.app/api/count/sagelynxs" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=sagelynxs&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
