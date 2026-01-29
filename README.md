@@ -10,7 +10,6 @@
   
   ---
   
-  Example:
   🌱 I’m currently learning **Advanced System Administration & AI Integration**
   💻 I use **Arch Linux** (btw) for my daily driver.
   🔭 I’m currently working on **Laravel Projects & Discord/WA Bots**
@@ -46,8 +45,8 @@
   <h3>📊 GitHub Stats</h3>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sagelynxs&show_icons=true&theme=tokyonight&hide_border=true" alt="Sage's Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagelynxs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stat-2q1q3pqt6-sages-projects-cab25893.vercel.app/api?username=sagelynxs&show_icons=true&theme=tokyonight&hide_border=true" alt="Sage's Github Stats" />
+    <img src="https://github-readme-stat-2q1q3pqt6-sages-projects-cab25893.vercel.app/api/top-langs/?username=sagelynxs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 </div>
 
