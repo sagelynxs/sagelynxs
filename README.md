@@ -6,7 +6,7 @@
   
   ### 🚀 About Me
   
-  Seorang pelajar yang berdomisili di **Bali**, dengan ketertarikan kuat pada **Backend Development** dan **System Administration**. Saya senang mengulik server, membangun bot, dan mengembangkan sistem web yang kompleks.
+  A student based in **Bali**, with a strong interest in **Backend Development** and **System Administration**. I enjoy tinkering with servers, building bots, and developing complex web systems.
   
   ---
   
